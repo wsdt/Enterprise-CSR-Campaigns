@@ -4,10 +4,9 @@
 ## What was BeKind from October 2018 - April 2019)
 BeKind has been a Tech-Startup from October 2018 to May 2020 to offer low-priced and personalized Corporate-Social-Responsibility campaigns to SMEs. We basically built a social-platform where people can solve so-called challenges related to environment-protection, health and solidarity and win prizes based on their interests by companies they love (e.g. exclusive rebates, products, vouchers, ...).
 
-![Image Logo](./files_github/Marketing/Corporate-Identity/01_Logo/color/combination-mark/png/Logo_WAVECT_color_comb-m_200.png)
 <hr />
 
-### Our latest mockup
+### Mockup
 
 ![Mockup](./files_github/Marketing/Corporate-Identity/15_Prototype/Wireframes_Mockups_Design/20190925_MariellasMockup.png)
 <hr />
